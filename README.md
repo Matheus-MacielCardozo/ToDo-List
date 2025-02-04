@@ -1,2 +1,2 @@
 # ToDo-List
-A simples ToDo List
+A simple ToDo List
